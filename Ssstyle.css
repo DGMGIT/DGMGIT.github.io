@@ -26,6 +26,7 @@ body {
 div.topnav {
     background: #010a44;
     color: #000000;
+    text-align:center;
     margin: 0.5em;
     padding: 0.4em;	}
 
@@ -47,6 +48,16 @@ div.topnav a {
     flex: 1 0 auto;
     padding:15px;
     margin: 0.5em;}
+
+menu-item{
+    display: block;
+    height: 300px;}
+
+.split {
+    display: block;
+    float: left;
+    text-align: center;
+    width: 50%;}
 
 aside {
     display: block;
