@@ -7,7 +7,7 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
-    background-color: #432204; }
+    background-color: #000000; }
 
 .h1 {
     font-family: Brush Script MT, Lucida Handwriting, Cursive, serif;
@@ -16,9 +16,16 @@ body {
     margin: unset;
     padding: unset;}
 
+.h2 {
+    font-family: Brush Script MT, Lucida Handwriting, Cursive, serif;
+    text-align:left;
+    font-size: 20px;
+    margin: unset;
+    padding: unset;}
+
 div.topnav {
-    background: #f8bc84;
-    color: #432204;
+    background: #010a44;
+    color: #000000;
     margin: 0.5em;
     padding: 0.4em;	}
 
@@ -35,8 +42,8 @@ div.topnav a {
 
 .content {
     min-height: 60vh;
-    background: #f8bc84;
-    color: #432204;
+    background: #ffffff;
+    color: #000000;
     flex: 1 0 auto;
     padding:15px;
     margin: 0.5em;}
