@@ -18,8 +18,11 @@ header {
 
 .container {
     width: auto;
-    margin: 0 auto;
-    background: black}
+    margin: auto;
+    padding-top: 0.5px;
+    padding-bottom: 5px;
+    background: #ffffff
+}
 
 .topnav {
     background: #c58442;
