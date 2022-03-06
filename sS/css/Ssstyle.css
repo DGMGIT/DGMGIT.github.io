@@ -62,4 +62,5 @@ footer {
     display: flex;
     flex-direction: column;
     flex: 1;
+    margin: 20px;
 }
